@@ -87,7 +87,7 @@ Whether you're managing complex work tasks or organizing your daily routine, Tod
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/jalalakbar47/todo-app-pro.git
+   git clone https://github.com/jalalakbar47/Todo-app-pro.git
    ```
 
 2. **Install dependencies**
