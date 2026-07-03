@@ -142,12 +142,9 @@ src/
 ## 👨‍💻 Author & Dedication
 
 Created with ❤️ by **Jalal Akbar**
-
 > Dedicated To My ❤️ J/S — My Inspiration.
 
 [![GitHub](https://img.shields.io/badge/GitHub-JalalAkbar47-181717?style=for-the-badge&logo=github)](https://github.com/jalalakbar47)
-
----
 
 ## 📄 License
 
