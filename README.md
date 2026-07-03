@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ready-blueviolet?style=for-the-badge)](https://github.com/jalalakbar47)
 
-[Live Demo](https://your-demo-link.vercel.app) • [Report Bug](https://github.com/jalalakbar47/todo-app-pro/issues) • [Request Feature](https://github.com/jalalakbar47/todo-app-pro/issues)
+[Live Demo]([https://your-demo-link.vercel.app](https://todo-app-pro-omega.vercel.app/)) • [Report Bug](https://github.com/jalalakbar47/todo-app-pro/issues) • [Request Feature](https://github.com/jalalakbar47/todo-app-pro/issues)
 
 <img src="./screenshots/banner.webp" alt="Todo App Pro Banner" width="100%">
 
